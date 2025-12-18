@@ -1,7 +1,7 @@
 ## Hi Everyone 👋
 
 # 💫 About Me:
-Coding<br><br>I'm Prantik Paul, Welcome to my GitHub Profile :)<br>I'm currently pursuing my BTech in Computer Science & Engineering from UEM Kolkata.<br><br><br>I'm a Programmer 🥷, Web Developer👨‍💻!!<br>👀 Looking for SDE Full-Time Roles.<br>🌱 I’m currently learning DS Algo, Full Stack Web Development.<br>💞️ I"m ready to collaborate on Web Development Projects.<br>📫 How to reach me: LinkedIn | Gmail.<br>😄 Pronouns: He/Him<br>
+<br><br>I'm Prantik Paul, Welcome to my GitHub Profile :)<br>I'm currently pursuing my BTech in Computer Science & Engineering from UEM Kolkata.<br><br><br>I'm a Programmer 🥷, Web Developer👨‍💻!!<br>👀 Looking for SDE Full-Time Roles.<br>🌱 I’m currently learning DS Algo, Full Stack Web Development.<br>💞️ I"m ready to collaborate on Web Development Projects.<br>📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prantik-paul) | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prantikp22@gmail.com) .<br>😄 Pronouns: He/Him<br>
 
 
 ## 🌐 Socials:
