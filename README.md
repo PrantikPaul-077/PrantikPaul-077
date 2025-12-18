@@ -1,5 +1,7 @@
 ## Hi Everyone 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=4994&pause=1000&color=1DF7F6&background=7BFFC100&center=true&vCenter=true&width=435&lines=Hii+There+!+%F0%9F%91%8B;Myself+Prantik+Paul!+%F0%9F%98%8A;WELCOME+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
+
 # 💫 About Me:
 <br><br>I'm Prantik Paul, Welcome to my GitHub Profile :)<br>I'm currently pursuing my BTech in Computer Science & Engineering from UEM Kolkata.<br><br><br>I'm a Programmer 🥷, Web Developer👨‍💻!!<br>👀 Looking for SDE Full-Time Roles.<br>🌱 I’m currently learning DS Algo, Full Stack Web Development.<br>💞️ I"m ready to collaborate on Web Development Projects.<br>📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prantik-paul) | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prantikp22@gmail.com) .<br>😄 Pronouns: He/Him<br>
 
