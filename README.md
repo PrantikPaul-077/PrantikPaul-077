@@ -1,6 +1,5 @@
 ## Hi Everyone 👋
 
-<div align="center">
   <img height="300" src="https://comparative-turquoise-vthiar8vy2-xmcq2ezajb.edgeone.dev/unnamed.jpg"  />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=4994&pause=1000&color=1DF7F6&background=7BFFC100&center=true&vCenter=true&width=435&lines=Hii+There+!+%F0%9F%91%8B;Myself+Prantik+Paul!+%F0%9F%98%8A;WELCOME+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
