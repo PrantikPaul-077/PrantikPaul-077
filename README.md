@@ -24,8 +24,6 @@
 # 💻 Languages I know::
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 # 📊 GitHub Stats:
-<img align="right" height="400" src="https://i.gifer.com/7zwd.gif"  />
-
 ![](https://github-readme-stats.vercel.app/api?username=PrantikPaul-077&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PrantikPaul-077&theme=dark&hide_border=false)<br/>
 
