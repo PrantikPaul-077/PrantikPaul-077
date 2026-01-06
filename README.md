@@ -27,7 +27,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=PrantikPaul-077&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PrantikPaul-077&theme=dark&hide_border=false)<br/>
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="prantik-paul" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/prantik-paul?trk=profile-badge">Prantik Paul</a>
+</div>
+              
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
