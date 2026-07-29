@@ -20,7 +20,7 @@ I'm currently pursuing my BTech in Computer Science & Technology from IEM Kolkat
 <br>
 
 ## I'm a Programmer 🥷, Developer👨‍💻!!
-<br>👀 Looking for SDE Full-Time Roles.<br>🌱 I’m currently learning DS Algo, Full Stack Web Development.<br>💞️ I"m ready to collaborate on Web Development Projects.<br>📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prantik-paul) | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prantikp22@gmail.com) .<br>😄 Pronouns: He/Him<br>
+<br>👀 Looking for SDE Full-Time Roles.<br>🌱 I’m currently learning DS Algo and Full Stack Web Development.<br>💞️ I “m ready to collaborate on Web Development Projects.<br>📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prantik-paul) | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prantikp22@gmail.com) <br>😄 Pronouns: He/Him<br>
 
 
 <br />
@@ -32,7 +32,7 @@ I'm currently pursuing my BTech in Computer Science & Technology from IEM Kolkat
 
 
 
-## 🌐 Connect with me:
+## 🌐 Connect with me :
 
 <p align="left"> 
 <a href="https://github.com/PrantikPaul-077" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  
@@ -44,7 +44,7 @@ I'm currently pursuing my BTech in Computer Science & Technology from IEM Kolkat
  
 </p>
 
-# 💻 Languages I know:
+# 💻 Languages I know :
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a> 
@@ -53,7 +53,7 @@ I'm currently pursuing my BTech in Computer Science & Technology from IEM Kolkat
 </p> 
 
 
-## Frontend Skills:
+## Frontend Skills :
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
@@ -63,7 +63,7 @@ I'm currently pursuing my BTech in Computer Science & Technology from IEM Kolkat
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-## Backend Skills:
+## Backend Skills :
 
 <p align="left">
 <a href="https://nodejs.org" target="_blank"> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> </a>
@@ -73,7 +73,7 @@ I'm currently pursuing my BTech in Computer Science & Technology from IEM Kolkat
 
 </p>
 
-## Other Skills:
+## Other Skills :
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
