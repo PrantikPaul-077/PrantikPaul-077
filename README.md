@@ -85,7 +85,7 @@ I'm currently pursuing my BTech in Computer Science & Technology from IEM Kolkat
 </p>
 
 <br>
-<h1 align="center">⚡Fun fact: I love to write Colorful Lines on a black screen
+<h1 align="center">⚡Fun fact : I love to write Colorful Lines on a black screen
 <br>
 
 
